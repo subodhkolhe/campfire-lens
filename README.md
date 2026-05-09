@@ -6,8 +6,6 @@ Your portfolio has a point of view on the world. Campfire Lens finds it.
 
 Pick any market theme — AI inference, China+1 manufacturing, green hydrogen. Lens maps the full value chain, finds India's specific position in it, then checks your live Zerodha holdings to show what you're implicitly betting on, what's missing, and what's at risk.
 
-Part of the [Campfire](https://github.com/subodhkolhe) suite alongside [Campfire Analyst](https://github.com/subodhkolhe/campfire-analyst).
-
 ---
 
 ## Screenshots
